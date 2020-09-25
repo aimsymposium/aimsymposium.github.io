@@ -46,7 +46,7 @@
   }
   
   .header img {
-    padding-top: 0px;
+    /*padding-top: 0px;*/
     /*margin-bottom: 0rem;*/
   }
   
@@ -120,7 +120,7 @@
   @media (max-width: 576px) {
     .header,
     .footer {
-      text-align: center;
+      /*text-align: center;*/
     }
   
     .teaser header li {
