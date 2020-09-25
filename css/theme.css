@@ -294,7 +294,7 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #a90531;
+  background: #1d2d50;
   color: white;
 }
 .text-primary {
@@ -319,8 +319,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #a90531;
-  border-color: #a90531;
+  background-color: #1d2d50;
+  border-color: #1d2d50;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
