@@ -174,7 +174,7 @@ p, ul > li {
 @media (min-width: 768px) {
   .navbar-default {
     background-color: #1d2d50;
-    border-color: transparent;
+    border-color: #1d2d50;
   }
   .navbar-default .navbar-header .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
@@ -257,7 +257,7 @@ section.features .feature-item i {
   background: -webkit-linear-gradient(to left, #c50c3e, #1d2d50);
   background: linear-gradient(to left, #c50c3e, #1d2d50);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #1d2d50;
 }
 @media (min-width: 992px) {
   section.features .device-container,
@@ -345,11 +345,11 @@ footer ul li a.active {
 }
 img::selection {
   color: white;
-  background: transparent;
+  background: #1d2d50;
 }
 img::-moz-selection {
   color: white;
-  background: transparent;
+  background: #1d2d50;
 }
 body {
   webkit-tap-highlight-color: #222222;
