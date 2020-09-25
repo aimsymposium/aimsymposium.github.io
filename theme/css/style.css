@@ -35,7 +35,7 @@
   .header {
     background: #1d2d50;
     color: white;
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     } ,
   .footer {
     padding: 1.5rem 0 .5rem;
@@ -91,7 +91,7 @@
   }
   
   .teaser header li {
-    margin-bottom: .5rem;
+    /*margin-bottom: .5rem;*/
   }
   
   .teaser .content p {
@@ -100,7 +100,7 @@
   
   .article header ul,
   .article header li {
-    margin-bottom: .5rem;
+    /*margin-bottom: .5rem;*/
   }
   
   .article header li:not(:last-child) {
