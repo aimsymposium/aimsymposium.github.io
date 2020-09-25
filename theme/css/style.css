@@ -35,6 +35,7 @@
   .header {
     background: #1d2d50;
     color: white;
+    padding-top: 20px;
     } ,
   .footer {
     padding: 1.5rem 0 .5rem;
@@ -45,6 +46,7 @@
   }
   
   .header img {
+    padding-top: 10px;
     margin-bottom: 1rem;
   }
   
