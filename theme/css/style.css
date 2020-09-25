@@ -32,7 +32,9 @@
     max-width: 960px;
   }
   
-  .header,
+  .header {
+    background-color: #1d2d50;
+    } ,
   .footer {
     padding: 1.5rem 0 .5rem;
   }
