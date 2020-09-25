@@ -231,8 +231,8 @@ p, ul > li {
 }
 
 section {
-  padding-left:3px;
-  padding-top: 30px;
+  padding-left:0px;
+  padding-top: 2000px;
 }
 
 .section-heading {
