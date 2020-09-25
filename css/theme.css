@@ -298,11 +298,11 @@ footer ul li a.active {
   color: white;
 }
 .text-primary {
-  color: #a90531;
+  color: #1d2d50;
 }
 
 .text-secondary {
-  color: #c50c3e;
+  color: #fcdab7;
 }
 
 .no-gutter > [class*='col-'] {
