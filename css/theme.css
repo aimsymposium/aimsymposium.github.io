@@ -232,7 +232,7 @@ p, ul > li {
 
 .section {
   padding-left:0px;
-  padding-top: 2000px;
+  padding-top: 200px;
 }
 
 .section-heading {
@@ -249,7 +249,7 @@ section.features .feature-item {
 }
 
 section.features .feature-item {
-  text-align: center;
+  text-align: left;
   margin-bottom: 40px;
 }
 
