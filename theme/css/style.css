@@ -64,7 +64,7 @@
   .header ul {
     font-size: 1.25rem;
     font-weight: 300;
-    margin-left: 200px;
+    margin-left: 20px;
     /*text-transform: lowercase;*/
   }
   
@@ -105,7 +105,7 @@
   }
   
   .article header li:not(:last-child) {
-    margin-right: 10px;
+    margin-right: 5px;
   }
   
   .article .content a {
@@ -129,7 +129,7 @@
     }
   
     .teaser header li:not(:last-child) {
-      margin-right: 10px;
+      margin-right: 5px;
     }
   }
   
