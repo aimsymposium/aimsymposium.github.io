@@ -10,7 +10,7 @@
 
 .programHeadline {
   background-color: #1d2d50;
-  padding: 10px 15px;
+  padding: 10px 8px;
   border: 2px solid #1d2d50;
   border-radius: 5px;
   text-align: center;
@@ -219,7 +219,7 @@ p, ul > li {
   /*background: url("../img/bg-pattern.png"), linear-gradient(to left, #c50c3e, #1d2d50);*/
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
-  padding: 30px 0px;
+  padding: 8px 0px;
   padding-top: 50px;
 }
 
@@ -231,8 +231,8 @@ p, ul > li {
 }
 
 section {
-  padding-left: 8px;
-  padding-top: 20px;
+  padding-left:3px;
+  padding-top: 30px;
 }
 
 .section-heading {
