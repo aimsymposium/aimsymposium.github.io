@@ -173,7 +173,7 @@ p, ul > li {
 }
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: transparent;
+    background-color: #1d2d50;
     border-color: transparent;
   }
   .navbar-default .navbar-header .navbar-brand {
