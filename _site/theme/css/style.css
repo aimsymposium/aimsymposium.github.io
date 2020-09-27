@@ -33,7 +33,7 @@
   }
   
   .header {
-    background: #1d2d50;
+    background: #1a1a2e;
     color: white;
     /*padding-top: 10px;*/
     }
@@ -112,13 +112,13 @@
     text-decoration: underline
   }
   
-  @media (min-width: 576px) {
+  @media (min-width: 5076px) {
     .header .title {
       font-size: 3rem;
     }
   }
   
-  @media (max-width: 576px) {
+  @media (max-width: 5076px) {
     .header,
     .footer {
       /*text-align: center;*/
