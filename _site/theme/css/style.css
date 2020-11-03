@@ -112,6 +112,18 @@
   .article .content a {
     text-decoration: underline
   }
+
+button {
+ border-radius: 25px !important;
+  padding: 10px;
+  border: none;
+  background-color: #1a1a2e; !important;
+  border-color: #ffffff !important;
+  color: #ffffff !important;
+  border-width: 2px !important;
+  font-weight: 600 !important;
+  /*color: #f54291 !important;*/
+}
   
   @media (min-width: 5076px) {
     .header .title {
